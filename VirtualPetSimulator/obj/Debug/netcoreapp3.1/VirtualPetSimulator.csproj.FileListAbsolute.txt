@@ -1,0 +1,14 @@
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.exe
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.deps.json
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.runtimeconfig.json
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.runtimeconfig.dev.json
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.dll
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\netcoreapp3.1\VirtualPetSimulator.pdb
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.csproj.AssemblyReference.cache
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.AssemblyInfoInputs.cache
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.AssemblyInfo.cs
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.csproj.CoreCompileInputs.cache
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.dll
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.pdb
+D:\ju_gameProgramming\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\netcoreapp3.1\VirtualPetSimulator.genruntimeconfig.cache
